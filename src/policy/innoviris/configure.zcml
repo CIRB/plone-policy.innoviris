@@ -8,7 +8,7 @@
   <include file="profiles.zcml" />
   <include package="cirb.zopemonitoring" />
   <include package="collective.anysurfer" />
-  <include package="Collective.easyslider" />
+  <include package="collective.easyslider" />
   <include package="Products.PloneFormGen" />
   <include package="webcouturier.dropdownmenu" />
   <include package="plonetheme.innoviris" />

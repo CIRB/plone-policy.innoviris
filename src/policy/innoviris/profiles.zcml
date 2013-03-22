@@ -7,7 +7,7 @@
       name="default"
       title="policy.innoviris"
       directory="profiles/default"
-      description='Extension profile : 'policy of INNOVIRIS site'.'
+      description='Extension profile : policy of INNOVIRIS site.'
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 

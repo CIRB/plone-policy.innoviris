@@ -6,5 +6,6 @@
       <dependency>profile-collective.ckeditor:default</dependency>
       <dependency>profile-collective.easyslider:default</dependency>
       <dependency>profile-plonetheme.innoviris:default</dependency>
+      <dependency>profile-Products.PloneFormGen:default</dependency>
   </dependencies>
 </metadata>
