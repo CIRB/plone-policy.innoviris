@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<metadata>
+  <version>0001</version>
+  <dependencies>
+      <dependency>profile-Products.LinguaPlone:LinguaPlone</dependency>
+      <dependency>profile-collective.ckeditor:default</dependency>
+      <dependency>profile-collective.easyslider:default</dependency>
+      <dependency>profile-plonetheme.innoviris:default</dependency>
+  </dependencies>
+</metadata>
