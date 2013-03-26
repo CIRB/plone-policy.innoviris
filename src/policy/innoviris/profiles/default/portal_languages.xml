@@ -15,5 +15,6 @@
     <supported_langs>
         <element value="nl"/>
         <element value="fr"/>
+        <element value="en"/>
     </supported_langs>
 </object>
