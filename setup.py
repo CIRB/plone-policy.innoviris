@@ -30,9 +30,10 @@ setup(name='policy.innoviris',
           'cirb.zopemonitoring',
           # -*- Extra requirements: -*-
           'Collective.easyslider',
-	  'collective.anysurfer',
+    	  'collective.anysurfer',
           'Products.PloneFormGen',
-   	  'webcouturier.dropdownmenu',
+   	      'webcouturier.dropdownmenu',
+          'cirb.footersitemap',
           'plonetheme.innoviris'
       ],
       entry_points="""

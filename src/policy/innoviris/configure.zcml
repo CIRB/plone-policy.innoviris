@@ -11,6 +11,7 @@
   <include package="collective.easyslider" />
   <include package="Products.PloneFormGen" />
   <include package="webcouturier.dropdownmenu" />
+  <include package="cirb.footersitemap" />
   <include package="plonetheme.innoviris" />
 
 </configure>
