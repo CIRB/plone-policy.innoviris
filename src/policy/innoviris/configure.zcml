@@ -13,5 +13,6 @@
   <include package="webcouturier.dropdownmenu" />
   <include package="cirb.footersitemap" />
   <include package="plonetheme.innoviris" />
+  <include package="collective.checktranslated" />
 
 </configure>

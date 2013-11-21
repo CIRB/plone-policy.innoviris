@@ -32,6 +32,7 @@ setup(name='policy.innoviris',
           # -*- Extra requirements: -*-
           'collective.easyslider',
     	    'collective.anysurfer',
+          'collective.checktranslated',
           'Products.PloneFormGen',
    	      'webcouturier.dropdownmenu',
           'cirb.footersitemap',
