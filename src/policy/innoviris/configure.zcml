@@ -14,5 +14,6 @@
   <include package="cirb.footersitemap" />
   <include package="plonetheme.innoviris" />
   <include package="collective.checktranslated" />
+  <include package="collective.quickupload" />
 
 </configure>
